@@ -149,8 +149,7 @@ CREATE INDEX IX_orders_CustomerID ON Orders (CustomerID);
 
 ## 📂 SQL Script Files
 
-All necessary SQL script files for setting up the database, stored procedures, triggers, views, and other components are included in the repository. Navigate to the `/scripts` folder to find:
-
+All necessary SQL script files for setting up the database, stored procedures, triggers, views, and other components are included in the repository. 
 - `setup.sql`: Initial schema and table creation  
 - `insert_data.sql`: Sample data for categories, customers, and products  
 - `security.sql`: Login and user management  
@@ -160,7 +159,7 @@ All necessary SQL script files for setting up the database, stored procedures, t
 
 ## 📸 Screenshots
 
-Screenshots are provided in the `/screenshots` folder, including:
+Screenshots are provided including:
 
 - SSMS connection  
 - Table creation  
