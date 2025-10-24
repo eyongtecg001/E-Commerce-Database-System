@@ -1,0 +1,5 @@
+--PHASE 6 - BACKUP AND RESTORE
+--6.1 BACKUP
+BACKUP DATABASE EcommerceDB
+	TO DISK = 'C:\SQLBackups\EcommerceDB\EcommerceDB.bak'
+	WITH FORMAT, INIT;
